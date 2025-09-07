@@ -36,8 +36,7 @@ namespace Oxide.Ext.NoSteam.Loader
 
         private static void Init()
         {
-            Server.encryption = 0;
-            Server.secure = true;
+           
         }
 
         internal static void Output(string text)

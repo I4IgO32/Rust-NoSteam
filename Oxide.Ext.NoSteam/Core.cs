@@ -70,10 +70,7 @@ namespace Oxide.Ext.NoSteam
                 Logger.Print("'server.encryption' should was been '0'");
             }
 
-            if (ConVar.Server.secure == false)
-            {
-                Logger.Print("'server.secure' should was been '1'");
-            }
+           
         }
 
         internal static bool CheckIsSteamConnection(ulong userid)

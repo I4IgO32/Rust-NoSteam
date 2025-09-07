@@ -5,3 +5,10 @@ G:\Devs\Rust\Servers\rustserver2\RustDedicated_Data\Managed\Oxide.Ext.NoSteam.pd
 G:\Rust-NoSteam-master\Oxide.Ext.NoSteam\obj\Debug\Oxide.Ext.NoSteam.dll
 G:\Rust-NoSteam-master\Oxide.Ext.NoSteam\obj\Debug\Oxide.Ext.NoSteam.pdb
 G:\Rust-NoSteam-master\Oxide.Ext.NoSteam\obj\Debug\Oxide.Ex.809C8856.Up2Date
+C:\Users\Crushedice\source\repos\Rust-NoSteam\Oxide.Ext.NoSteam\obj\Debug\Oxide.Ext.NoSteam.csproj.AssemblyReference.cache
+C:\Users\Crushedice\source\repos\Rust-NoSteam\Oxide.Ext.NoSteam\obj\Debug\Oxide.Ext.NoSteam.csproj.CoreCompileInputs.cache
+C:\Users\Crushedice\source\repos\Rust-NoSteam\Oxide.Ext.NoSteam\obj\Debug\Oxide.Ext.NoSteam.dll
+C:\Users\Crushedice\source\repos\Rust-NoSteam\Oxide.Ext.NoSteam\obj\Debug\Oxide.Ext.NoSteam.pdb
+C:\Users\Crushedice\source\repos\Devs\Rust\Servers\rustserver2\RustDedicated_Data\Managed\Oxide.Ext.NoSteam.dll
+C:\Users\Crushedice\source\repos\Devs\Rust\Servers\rustserver2\RustDedicated_Data\Managed\Oxide.Ext.NoSteam.pdb
+C:\Users\Crushedice\source\repos\Rust-NoSteam\Oxide.Ext.NoSteam\obj\Debug\Oxide.Ex.809C8856.Up2Date

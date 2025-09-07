@@ -20,7 +20,7 @@ namespace Oxide.Ext.NoSteam.Patches
     internal static class SteamPatch
     {
        
-        private static Dictionary<ulong, BeginAuthResult> StatusPlayers => Core.StatusPlayers;
+        private static Dictionary<ulong, Steamworks.BeginAuthResult> StatusPlayers => Core.StatusPlayers;
 
         internal static void PatchSteamBeginPlayer()
         {
@@ -211,11 +211,11 @@ namespace Oxide.Ext.NoSteam.Patches
 
                 if (StatusPlayers.ContainsKey(steamID) == false)
                 {
-                    StatusPlayers.Add(steamID, (BeginAuthResult)__result);
+                    StatusPlayers.Add(steamID, (Steamworks.BeginAuthResult)__result);
                 }
                 else
                 {
-                    StatusPlayers[steamID] = (BeginAuthResult)__result;
+                    StatusPlayers[steamID] = (Steamworks.BeginAuthResult)__result;
                 }
             }
         }

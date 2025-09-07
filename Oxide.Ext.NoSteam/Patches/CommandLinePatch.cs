@@ -17,8 +17,8 @@ namespace Oxide.Ext.NoSteam.Patches
             [HarmonyPrefix]
             public  static void Prefix()
             {
-                Server.encryption = 0;
-                Server.secure = true;
+             
+              
             }
         }
     }
